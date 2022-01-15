@@ -1,0 +1,21 @@
+.header_div{
+    text-align: center;
+    background-color: rgb(126, 118, 118);
+    font-family: 'Pushster', cursive;
+    margin: 0;
+}
+
+.main_div{
+    text-align: center;
+    background-color: rgb(70, 66, 66);
+    margin: 0;
+    font-family: 'Pushster', cursive;
+}
+
+.copy_right_footer{
+    background-color: rgb(126, 118, 118);
+    position: fixed;
+    width: 100%;
+    font-family: 'Pushster', cursive;
+    text-align: center;
+}
